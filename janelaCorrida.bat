@@ -1,0 +1,1 @@
+java -jar target/kart_rank-0.0.1-SNAPSHOT.jar
