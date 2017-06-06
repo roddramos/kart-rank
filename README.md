@@ -24,7 +24,7 @@ OBS: O local do arquivo deve ser informado completo, ex: D:\Projetos\java\eclips
 
 
 ### Saída do log
-
+``` ----------------------------------------------------------------------------------
  Posição no Grid Codigo Piloto     Nome Piloto Numero de Voltas   Tempo Total  Melhor Volta Velocidade Média Tempo atras do primeiro
                1           038         F.MASSA                4  00:04:11.578  00:01:02.769           44,246                   00:00
                2           002     K.RAIKKONEN                4  00:04:15.153  00:01:03.076           43,627            00:00:03.575
@@ -34,3 +34,4 @@ OBS: O local do arquivo deve ser informado completo, ex: D:\Projetos\java\eclips
                6           011        S.VETTEL                3  00:06:27.276  00:01:18.097           25,746            00:02:15.698
 
 Melhor Volta -> 038 – F.MASSA - Tempo: 00:01:02.769 - Volta: 3
+---------------------------------------------------------------------------------- ```
