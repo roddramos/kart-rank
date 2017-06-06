@@ -6,6 +6,8 @@ Projeto desafio Kark Rank
 
 #### Duas formas para rodas
 
+#####OBS: O Arquivo de exemplo seque no projeto: logrank.txt
+
 1 - Executar o arquivo janelaCorrida.bat
 1.1 - Clicar em selecionar arquivo. Selecionar o arquivo do log de corrida.
 1.2 - A aplicação irá executar a leitura e o log aparecerá na TextArea e no System.out.print
